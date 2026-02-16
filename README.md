@@ -43,7 +43,7 @@ Before you complete this lab you must ensure that you have completed the previou
 Create a new folder in your local workspace and pull your GitHub repository down into it using the command line.
 <p>Part 2:
 Create a working document folder for this session, then screenshot your downloaded repository, and explain what you just did. 
-</div>
+    </div>
 </div>
 
 <!-- Bootstrap JS and dependencies -->
