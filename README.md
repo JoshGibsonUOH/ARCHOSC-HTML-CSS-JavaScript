@@ -512,7 +512,7 @@ The final aspect of your portfolio you are going to work on today is implementin
     <li>Toggle the different CSS on and off when the button is pressed.</li>
 </ol>
 
-<p>Most of the information you need to do this is available in the lecture slides - but you will need to figure out how to make the entire website body match the background colour of your text.
+<p>Most of the information you need to do this is available in the lecture slides - but you will need to figure out how to make the entire website body match the background colour of your text.</p>
 
 <p>Extra kudos if you can alter your button using CSS, and get it to work alongside your Nav Bar - and make your Dark Mode consistent when changing pages. </p>
     </div>
