@@ -76,7 +76,7 @@ Create a working document folder for this session, then screenshot your download
     <li>A "Dark Mode" toggle that allows you to toggle Dark Mode on your main page, bonus points if its available site wide</li>
 </ol>
 
-<p>If you have all of these then all you need to do for ths lab is screenshot them in your code (and working on your website) and explain what they do in your portfolio.
+<p>If you have all of these then all you need to do for ths lab is screenshot them in your code (and working on your website) and explain what they do in your portfolio.</p>
 
 <p>Any missing sections can be included by completing their specfic section.</p>
     </div>
