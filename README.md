@@ -227,7 +227,6 @@ When you are done, save your HTML document, I am going to call it "GitHub1.html"
 <p>Once you have found them copy the information for each lab into their own HTML file</p>
 <p>The screenshots and defintions from the first GitHub lab should go into the GitHubOne page, the second GitHubTwo etc.</p>
 <p>When you are done your index.html page should be empty, minus the HTML skeleton and references to your HTML and JavaScript, like the image below:</p>
-<img src=Pictures/005.png></img>
 <p>If you are at all unsure about if you have done this properly, please ask myself and a demonstrator to clarify that your labs are in the right place, and your index is empty </p>
     </div>
 </div>
@@ -238,6 +237,8 @@ When you are done, save your HTML document, I am going to call it "GitHub1.html"
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
+
+![Image](Pictures/005.png)
 
 Once you have done this, add the following code to your index.html
 
